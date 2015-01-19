@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  email: MyString
+  deleted_at: 2015-01-19 22:35:11
+
+two:
+  email: MyString
+  deleted_at: 2015-01-19 22:35:11

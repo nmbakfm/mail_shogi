@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  hash: MyString
+  first_move_user_id: 1
+  last_move_user_id: 1
+  winner: 1
+  deleted_at: 2015-01-19 22:33:35
+
+two:
+  hash: MyString
+  first_move_user_id: 1
+  last_move_user_id: 1
+  winner: 1
+  deleted_at: 2015-01-19 22:33:35
